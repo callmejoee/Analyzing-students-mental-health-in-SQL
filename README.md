@@ -1,3 +1,5 @@
+![Mental Health Image](mentalhealth.jpg)
+
 # 🧠 Exploring Mental Health of International Students Using PostgreSQL
 
 ### 📘 Study Overview
